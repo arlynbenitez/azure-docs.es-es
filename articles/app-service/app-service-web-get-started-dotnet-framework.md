@@ -49,7 +49,7 @@ Asigne a la aplicación el nombre _myFirstAzureWebApp_ y seleccione **Aceptar**.
    
 ![Cuadro de diálogo Nuevo proyecto](./media/app-service-web-get-started-dotnet-framework/new-project.png)
 
-Puede implementar cualquier tipo de aplicación web de ASP.NET en Azure. Para esta guía de inicio rápido, seleccione la plantilla **MVC** y asegúrese de que la autenticación se establece en **Sin autenticación**.
+Puede implementar cualquier tipo de aplicación web de ASP.NET en Azure. Para esta guía de inicio rápido, seleccione la plantilla **MVC** y asegúrese de que la autenticación se establezca en **Sin autenticación**.
       
 Seleccione **Aceptar**.
 
