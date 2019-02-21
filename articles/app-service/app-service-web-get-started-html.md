@@ -90,7 +90,7 @@ Anote el valor `resourceGroup`. Lo necesitará en la sección de [limpieza de re
 
 ## <a name="browse-to-the-app"></a>Navegación hasta la aplicación
 
-En un explorador, vaya a la dirección URL de la aplicación: `http://<app_name>.azurewebsites.net`.
+En un explorador, dirígase a la URL de la aplicación: `http://<app_name>.azurewebsites.net`.
 
 La página se ejecuta como una aplicación web de Azure App Service.
 
